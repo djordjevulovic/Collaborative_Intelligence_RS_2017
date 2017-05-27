@@ -4,18 +4,13 @@ In here, you will find material presented in Collaborative Intelligence conferec
 
 # Model-driven Programming with YDK
 
-- [Presentation](https://github.com/djordjevulovic/Cisco_Connect_HR_2017/blob/master/Devnet%20Coffee%20Break%20-%20CMX.pdf)
-- [CMX Floor Visualizer sample app](https://github.com/djordjevulovic/Cisco_Connect_HR_2017/blob/master/CMX_FloorVisualizer.py)
-- [CMX Client Tracker sample app](https://github.com/djordjevulovic/Cisco_Connect_HR_2017/blob/master/CMX_ClientTracker.py)
+- [Presentation](https://github.com/djordjevulovic/Collaborative_Intelligence_RS_2017/blob/master/Collaborative%20Intelligence%20Belgrade%202017%20-%20Model-driven%20Programming%20with%20YDK.pdf)
+- [YDK Demo App](https://github.com/djordjevulovic/Collaborative_Intelligence_RS_2017/blob/master/YDK_Demo_dvulovic.py)
 
 # Cisco LoRaWAN Solution
 
-- [Presentation](https://github.com/djordjevulovic/Cisco_Connect_HR_2017/blob/master/Devnet%20Coffee%20Break%20-%20NXAPI.pdf)
+- [Presentation](https://github.com/djordjevulovic/Collaborative_Intelligence_RS_2017/blob/master/Collaborative%20Intelligence%20Belgrade%202017%20-%20Cisco%20LoRaWAN%20Solution.pdf)
 
-# This is how it was! Thanks to everyone who participated!
-
-- [Photo#1](https://github.com/djordjevulovic/Cisco_Connect_HR_2017/blob/master/106.jpg)
-- [Photo#2](https://github.com/djordjevulovic/Cisco_Connect_HR_2017/blob/master/107.jpg)
 
 
  
